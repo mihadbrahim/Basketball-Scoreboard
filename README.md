@@ -1,7 +1,7 @@
 Basketball Scoreboard & Game Timer
 A responsive basketball scoreboard with a built-in countdown game clock built using vanilla JavaScript, HTML5, and CSS3. Designed to track live match scores and quarter countdowns in real time with an arcade-inspired LED interface.
 
-[Basketball Scoreboard Screenshot](images/sceenshot.png)
+[Basketball Scoreboard Screenshot](images/screenshot.png)
 
 Tech Stack
 - **HTML5:** Semantic structure for scoreboard panels, timer display, and accessible game controls.
